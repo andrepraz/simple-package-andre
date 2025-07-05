@@ -16,7 +16,7 @@ dados = {
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install -i https://test.pypi.org/simple/ grafico_linha
+pip install -i https://test.pypi.org/simple/ grafico-andre
 ```
 
 ## Uso
