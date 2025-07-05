@@ -1,7 +1,7 @@
-# Pacote grafico com a classe GraficoLinha
+# Pacote grafico-andre com a classe GraficoLinha
 
 ## Descrição. 
-O pacote grafico é usado para:
+O pacote grafico-andre é usado para:
 - Gerar gráfico de linha, que é uma classe, na qual após passarmos uma estrutura de dados conforme abaixo:
 ```
 dados = {
