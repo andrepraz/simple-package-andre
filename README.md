@@ -22,7 +22,7 @@ pip install -i https://test.pypi.org/simple/ grafico_linha
 ## Uso
 
 ```python
-from grafico.grafico_linha import GraficoLinha
+from grafico_andre.grafico_linha import GraficoLinha
 
 dados = {
     'valor_x': [2, 3, 4],
